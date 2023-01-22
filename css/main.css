@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
+/* font-family: 'Pirata One', cursive; */
+/* font-family: 'Playball', cursive; */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    height: 100vh;
+
+   background-image: url(../img/3.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+.main p{
+    font-size: 50px;
+    font-family: 'Playball', cursive;
+}
+
+.main h2{
+    text-transform: uppercase;
+    font-size: 105px;
+}
+
+.first{
+
+    font-family: 'Pirata One', cursive;
+}
+
+.second{
+
+    font-family: 'Playball', cursive;
+}
+
+.maintxt{
+    padding: 250px 0 0 200px;
+    font-size: 25px;
+    color: antiquewhite;
+    text-shadow: 1px 1px 2px black;
+    width: 510px;
+}
+
+.main img{
+    margin-top: -335px;
+    margin-left: 580px;
+    position: absolute;
+    text-align: end;
+}
+
+.lol{
+    height: 100vh;
+    background-color: burlywood;
+    font-size: 19px;
+}
+
+.lol img{
+    margin-top: 0px;
+    margin-left: 195px;
+}
